@@ -1,16 +1,20 @@
-## Hi there 👋
+# Adam da Victoria Ribeiro
 
-<!--
-**adamribeiro22/adamribeiro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante brasileiro em busca de uma oportunidade profissional, seja na área de desenvolvimento de software ou de dados. Sou uma pessoa organizada, comunicativa e com facilidade para aprender novas tecnologias.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python** (Pandas, Matplotlib)
+- **C#**
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+
+## Sobre mim
+
+Estou motivado a contribuir, crescer profissionalmente e aprender com novos desafios. Mesmo sem muitos projetos ainda, estou sempre praticando e buscando melhorar minhas habilidades técnicas.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/adam-da-victoria-ribeiro-1a6010259)
+
+---
+*Este README foi criado para compartilhar um pouco sobre mim e meus objetivos profissionais. Obrigado pela visita!*
