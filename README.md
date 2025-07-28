@@ -1,6 +1,8 @@
 # Adam da Victoria Ribeiro
 
-Sou estudante brasileiro em busca de uma oportunidade profissional, seja na área de desenvolvimento ou de dados. Sou uma pessoa organizada, comunicativa e com facilidade para aprender novas tecnologias.
+- Sou estudante de Ciência da Computação da Universidade Vila Velha (UVV).
+- Atualmente, estou em busca de uma oportunidade profissional, seja na área de desenvolvimento ou de dados. 
+- Sou uma pessoa organizada, comunicativa e com disposição e vontade de aprender novas tecnologias.
 
 ## Habilidades
 
